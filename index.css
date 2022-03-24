@@ -1,0 +1,13 @@
+.button-wrapper {
+    margin-top: 16px;
+    text-align: center;
+}
+
+.input {
+    margin-top: 24px;
+    width: 100%;
+}
+
+.tapp {
+    padding: 0 !important;
+}
