@@ -1,13 +1,28 @@
+/* EN: Defines the appearance of the element with the "button-wrapper" class */
+/* DE: Definiert das Aussehen des Elements mit der Klasse "button-wrapper" */
 .button-wrapper {
-    margin-top: 16px;
+    margin-top: 16px; 
     text-align: center;
 }
 
+/* EN: Defines the appearance of the element with the "input" class */
+/* DE: Definiert das Aussehen des Elements mit der Klasse "input" */
 .input {
     margin-top: 24px;
     width: 100%;
 }
 
+/* EN: Defines the appearance of the element with the "tapp" class */
+/* DE: Definiert das Aussehen des Elements mit der Klasse "tapp" */
 .tapp {
+    /*
+        EN: This style is only needed if the page is included within an iFrame in Pagemaker.
+        At this point the padding is already set by the pagemaker.
+    */
+    /* 
+        DE: Dieser Style wird nur benötigt, wenn die Page innerhalb eines iFrames
+        im Pagemaker eingebunden wird. An dieser Stelle wird das Padding bereits
+        durch den Pagemaker gesetzt.
+    */
     padding: 0 !important;
 }
